@@ -148,19 +148,19 @@ export default function AcademicsPage() {
           </div>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
             <div className="text-center">
-              <div className="text-3xl md:text-4xl font-bold text-[#D4A843] mb-2">98%</div>
+              <div className="text-3xl md:text-4xl font-bold text-[#D4A843] mb-2">[XX%]</div>
               <p className="text-gray-300 text-sm">University Admission Rate</p>
             </div>
             <div className="text-center">
-              <div className="text-3xl md:text-4xl font-bold text-[#D4A843] mb-2">95%</div>
+              <div className="text-3xl md:text-4xl font-bold text-[#D4A843] mb-2">[XX%]</div>
               <p className="text-gray-300 text-sm">WAEC Pass Rate (5+ Credits)</p>
             </div>
             <div className="text-center">
-              <div className="text-3xl md:text-4xl font-bold text-[#D4A843] mb-2">40+</div>
+              <div className="text-3xl md:text-4xl font-bold text-[#D4A843] mb-2">[XX+]</div>
               <p className="text-gray-300 text-sm">Qualified Teachers</p>
             </div>
             <div className="text-center">
-              <div className="text-3xl md:text-4xl font-bold text-[#D4A843] mb-2">15:1</div>
+              <div className="text-3xl md:text-4xl font-bold text-[#D4A843] mb-2">[X:1]</div>
               <p className="text-gray-300 text-sm">Student-Teacher Ratio</p>
             </div>
           </div>
