@@ -1,7 +1,7 @@
 export const schoolConfig = {
-  name: "Greenfield International School",
-  tagline: "Nurturing Future Leaders",
-  motto: "Excellence • Integrity • Service",
+  name: "[School Name]",
+  tagline: "[School Tagline]",
+  motto: "[School Motto]",
   
   // Brand Colors (CSS variables)
   colors: {
@@ -16,36 +16,36 @@ export const schoolConfig = {
 
   // Contact Information
   contact: {
-    phone: "+234 801 234 5678",
-    phoneLink: "tel:+2348012345678",
-    email: "info@greenfieldschool.ng",
-    whatsapp: "+234 801 234 5678",
-    whatsappLink: "https://wa.me/2348012345678?text=Hello%20Greenfield%20International%20School%2C%20I'm%20interested%20in%20admission%20for%20my%20child.",
-    address: "15 Education Avenue, Lekki Phase 1, Lagos, Nigeria",
-    googleMapsEmbed: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3964.7272391838884!2d3.4463!3d6.4322!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNsKwMjUnNTUuOSJOIDPCsDI2JzQ2LjciRQ!5e0!3m2!1sen!2sng!4v1234567890",
+    phone: "+234 [XXX] [XXX] [XXXX]",
+    phoneLink: "tel:+234XXXXXXXXXX",
+    email: "info@[schoolname].ng",
+    whatsapp: "+234 [XXX] [XXX] [XXXX]",
+    whatsappLink: "https://wa.me/234XXXXXXXXXX?text=Hello%20[School%20Name]%2C%20I'm%20interested%20in%20admission%20for%20my%20child.",
+    address: "[Street Address], [Area], [City], Nigeria",
+    googleMapsEmbed: "[Google Maps Embed URL]",
   },
 
   // Dates
   dates: {
-    resumptionDate: "January 8, 2025",
-    nextTerm: "Second Term, 2024/2025 Session",
-    nextEvent: "Inter-House Sports Competition - March 15, 2025",
+    resumptionDate: "[Resumption Date]",
+    nextTerm: "[Term Name, Session]",
+    nextEvent: "[Next Event Name] - [Date]",
   },
 
   // Social Media
   social: {
-    facebook: "https://facebook.com/greenfieldschool",
-    instagram: "https://instagram.com/greenfieldschool",
-    twitter: "https://twitter.com/greenfieldsch",
-    youtube: "https://youtube.com/@greenfieldschool",
+    facebook: "[Facebook URL]",
+    instagram: "[Instagram URL]",
+    twitter: "[Twitter URL]",
+    youtube: "[YouTube URL]",
   },
 
   // Principal's Message
   principal: {
-    name: "Dr. Adebayo Ogunlade",
+    name: "[Principal's Full Name]",
     title: "Principal/CEO",
-    message: "At Greenfield International School, we believe every child is unique and gifted. Our commitment is to provide a holistic education that nurtures academic excellence, moral integrity, and leadership skills. We create an environment where students are challenged, supported, and inspired to reach their full potential.",
-    qualifications: "Ph.D. Education, University of Lagos | 25+ years in Education",
+    message: "[Principal's welcome message about the school's vision, values, and commitment to students. This should be a brief, inspiring paragraph that humanizes the school and speaks directly to parents.]",
+    qualifications: "[Principal's qualifications and years of experience]",
   },
 
   // Why Choose Us
@@ -68,26 +68,26 @@ export const schoolConfig = {
     {
       icon: "Award",
       title: "Proven Results",
-      description: "Consistently outstanding WAEC, NECO, and BECE results. 98% university admission rate.",
+      description: "Consistently outstanding WAEC, NECO, and BECE results. High university admission rate.",
     },
   ],
 
   // Testimonials
   testimonials: [
     {
-      name: "Mrs. Funke Adeyemi",
-      childClass: "Parent of JSS2 Student",
-      quote: "Greenfield has transformed my daughter's confidence and academic performance. The teachers are dedicated and the environment is conducive for learning. Best decision we ever made!",
+      name: "[Parent Name 1]",
+      childClass: "Parent of [Class] Student",
+      quote: "[Parent testimonial about their child's experience, academic improvement, and overall satisfaction with the school.]",
     },
     {
-      name: "Engr. Chukwuma Okafor",
-      childClass: "Parent of Primary 5 Student",
-      quote: "The school's emphasis on both academics and character development is remarkable. My son has grown not just intellectually but morally. The security measures give me peace of mind.",
+      name: "[Parent Name 2]",
+      childClass: "Parent of [Class] Student",
+      quote: "[Parent testimonial highlighting specific aspects like security, extracurricular activities, or character development.]",
     },
     {
-      name: "Barr. Amina Ibrahim",
-      childClass: "Parent of SS3 Student",
-      quote: "From nursery to secondary, Greenfield has been exceptional. The curriculum is robust, extracurricular activities are diverse, and the school truly prepares children for the future.",
+      name: "[Parent Name 3]",
+      childClass: "Parent of [Class] Student",
+      quote: "[Parent testimonial about the school's curriculum, teachers, or preparation for the future.]",
     },
   ],
 
@@ -123,7 +123,7 @@ export const schoolConfig = {
     },
     {
       question: "Is there a school bus service?",
-      answer: "Yes, we operate a fleet of well-maintained buses covering major routes in Lekki, Ajah, Victoria Island, and Ikoyi. Each bus has a trained attendant and GPS tracking.",
+      answer: "Yes, we operate a fleet of well-maintained buses covering major routes in [Area 1], [Area 2], [Area 3]. Each bus has a trained attendant and GPS tracking.",
     },
     {
       question: "What is the refund policy?",
@@ -147,44 +147,44 @@ export const schoolConfig = {
   fees: {
     nursery: {
       level: "Nursery (Nursery 1 - Reception)",
-      tuition: 350000,
-      development: 50000,
-      books: 35000,
-      uniforms: 25000,
-      transport: 80000,
+      tuition: 0,
+      development: 0,
+      books: 0,
+      uniforms: 0,
+      transport: 0,
     },
     primary: {
       level: "Primary (Primary 1 - 6)",
-      tuition: 450000,
-      development: 60000,
-      books: 45000,
-      uniforms: 30000,
-      transport: 80000,
+      tuition: 0,
+      development: 0,
+      books: 0,
+      uniforms: 0,
+      transport: 0,
     },
     juniorSecondary: {
       level: "Junior Secondary (JSS 1 - 3)",
-      tuition: 550000,
-      development: 70000,
-      books: 55000,
-      uniforms: 35000,
-      transport: 90000,
+      tuition: 0,
+      development: 0,
+      books: 0,
+      uniforms: 0,
+      transport: 0,
     },
     seniorSecondary: {
       level: "Senior Secondary (SS 1 - 3)",
-      tuition: 650000,
-      development: 80000,
-      books: 65000,
-      uniforms: 35000,
-      transport: 90000,
+      tuition: 0,
+      development: 0,
+      books: 0,
+      uniforms: 0,
+      transport: 0,
     },
   },
 
   // Payment Details
   payment: {
-    bankName: "First Bank of Nigeria",
-    accountName: "Greenfield International School Ltd",
-    accountNumber: "3012345678",
-    paystackLink: "https://paystack.com/pay/greenfield-school",
+    bankName: "[Bank Name]",
+    accountName: "[School Account Name]",
+    accountNumber: "[Account Number]",
+    paystackLink: "[Paystack Payment Link]",
   },
 
   // Academics
@@ -225,14 +225,14 @@ export const schoolConfig = {
 
   // Events
   events: [
-    { date: "Jan 8, 2025", title: "School Resumption", type: "academic" },
-    { date: "Feb 14, 2025", title: "Valentine's Day Celebration", type: "cultural" },
-    { date: "Mar 15, 2025", title: "Inter-House Sports Competition", type: "sports" },
-    { date: "Apr 5, 2025", title: "PTA Meeting", type: "meeting" },
-    { date: "May 20, 2025", title: "Cultural Day", type: "cultural" },
-    { date: "Jun 28, 2025", title: "Prize Giving & Graduation", type: "academic" },
-    { date: "Jul 12, 2025", title: "Career Day", type: "academic" },
-    { date: "Oct 1, 2025", title: "Independence Day Celebration", type: "cultural" },
+    { date: "[Date]", title: "School Resumption", type: "academic" },
+    { date: "[Date]", title: "[Event Name]", type: "cultural" },
+    { date: "[Date]", title: "Inter-House Sports Competition", type: "sports" },
+    { date: "[Date]", title: "PTA Meeting", type: "meeting" },
+    { date: "[Date]", title: "Cultural Day", type: "cultural" },
+    { date: "[Date]", title: "Prize Giving & Graduation", type: "academic" },
+    { date: "[Date]", title: "Career Day", type: "academic" },
+    { date: "[Date]", title: "Independence Day Celebration", type: "cultural" },
   ],
 
   // Gallery Categories

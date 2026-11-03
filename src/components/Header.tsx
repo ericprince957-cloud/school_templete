@@ -45,7 +45,7 @@ export default function Header() {
             {/* Logo */}
             <Link to="/" className="flex items-center gap-3">
               <div className="w-10 h-10 md:w-12 md:h-12 bg-[#1B3A5C] rounded-full flex items-center justify-center">
-                <span className="text-[#D4A843] font-bold text-lg md:text-xl">G</span>
+                <span className="text-[#D4A843] font-bold text-lg md:text-xl">S</span>
               </div>
               <div>
                 <h1 className="text-[#1B3A5C] font-serif font-bold text-base md:text-lg leading-tight">{schoolConfig.name}</h1>

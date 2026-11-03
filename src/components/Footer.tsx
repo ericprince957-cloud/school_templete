@@ -11,7 +11,7 @@ export default function Footer() {
           <div>
             <div className="flex items-center gap-3 mb-4">
               <div className="w-10 h-10 bg-[#D4A843] rounded-full flex items-center justify-center">
-                <span className="text-[#0F2640] font-bold text-lg">G</span>
+                <span className="text-[#0F2640] font-bold text-lg">S</span>
               </div>
               <div>
                 <h3 className="font-serif font-bold text-lg">{schoolConfig.name}</h3>
@@ -19,7 +19,7 @@ export default function Footer() {
               </div>
             </div>
             <p className="text-gray-300 text-sm leading-relaxed mb-4">
-              Providing quality education and nurturing future leaders since 2005. 
+              Providing quality education and nurturing future leaders. 
               We are committed to academic excellence and character development.
             </p>
             <div className="flex gap-3">

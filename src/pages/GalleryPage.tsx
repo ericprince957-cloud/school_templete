@@ -3,18 +3,18 @@ import { Calendar, MapPin, Clock, Image, ChevronLeft, ChevronRight } from 'lucid
 import { schoolConfig } from '../config/schoolConfig';
 
 const galleryImages = [
-  { id: 1, category: "Classroom Activities", color: "from-blue-400 to-blue-600", label: "Students in Science Lab" },
-  { id: 2, category: "Sports Day", color: "from-green-400 to-green-600", label: "Inter-House Sports Competition" },
-  { id: 3, category: "Graduation", color: "from-purple-400 to-purple-600", label: "Graduation Ceremony 2024" },
-  { id: 4, category: "Excursions", color: "from-orange-400 to-orange-600", label: "Field Trip to National Museum" },
-  { id: 5, category: "Cultural Day", color: "from-red-400 to-red-600", label: "Cultural Day Celebrations" },
-  { id: 6, category: "Science Fair", color: "from-teal-400 to-teal-600", label: "Annual Science Fair" },
-  { id: 7, category: "Classroom Activities", color: "from-indigo-400 to-indigo-600", label: "ICT Class in Action" },
-  { id: 8, category: "Sports Day", color: "from-emerald-400 to-emerald-600", label: "Swimming Competition" },
-  { id: 9, category: "Prize Giving", color: "from-amber-400 to-amber-600", label: "Prize Giving Day 2024" },
-  { id: 10, category: "Facilities", color: "from-sky-400 to-sky-600", label: "School Library" },
-  { id: 11, category: "Facilities", color: "from-cyan-400 to-cyan-600", label: "Sports Complex" },
-  { id: 12, category: "Cultural Day", color: "from-rose-400 to-rose-600", label: "Traditional Dance Performance" },
+  { id: 1, category: "Classroom Activities", color: "from-blue-400 to-blue-600", label: "[Photo Title]" },
+  { id: 2, category: "Sports Day", color: "from-green-400 to-green-600", label: "[Photo Title]" },
+  { id: 3, category: "Graduation", color: "from-purple-400 to-purple-600", label: "[Photo Title]" },
+  { id: 4, category: "Excursions", color: "from-orange-400 to-orange-600", label: "[Photo Title]" },
+  { id: 5, category: "Cultural Day", color: "from-red-400 to-red-600", label: "[Photo Title]" },
+  { id: 6, category: "Science Fair", color: "from-teal-400 to-teal-600", label: "[Photo Title]" },
+  { id: 7, category: "Classroom Activities", color: "from-indigo-400 to-indigo-600", label: "[Photo Title]" },
+  { id: 8, category: "Sports Day", color: "from-emerald-400 to-emerald-600", label: "[Photo Title]" },
+  { id: 9, category: "Prize Giving", color: "from-amber-400 to-amber-600", label: "[Photo Title]" },
+  { id: 10, category: "Facilities", color: "from-sky-400 to-sky-600", label: "[Photo Title]" },
+  { id: 11, category: "Facilities", color: "from-cyan-400 to-cyan-600", label: "[Photo Title]" },
+  { id: 12, category: "Cultural Day", color: "from-rose-400 to-rose-600", label: "[Photo Title]" },
 ];
 
 const eventTypeColors: Record<string, string> = {
